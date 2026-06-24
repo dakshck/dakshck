@@ -1,7 +1,11 @@
-# Daksh
+# daksh
 
 Self-taught programmer exploring low-level computing and embedded systems.
+---
+learning C and slowly figuring out how computers actually work under the hood.
+embedded systems, microcontrollers, linux — genuinely the coolest stuff ever.
+---
+currently: learning C, getting cozy with lazyvim, poking at MCUs, and yeah — linux.
 
-Currently spending most of my time learning Linux, building projects in C/C++, experimenting with microcontrollers, and understanding how computers work beneath the surface.
+> trying to make the best out of me, casually.
 
-> Spending most of my time breaking things and figuring out why.
